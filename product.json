@@ -1,0 +1,39 @@
+[
+  {
+    "name":"samsung galaxy note 10",
+    "price": "45000",
+    "feature": true,
+    "company": "samsung"
+  }, 
+  {
+    "name":"iphone 12",
+    "price": "55000",
+    "feature": true,
+    "company": "apple"
+  },
+   {
+    "name":"one plus 8",
+    "price": "35000",
+    "feature": true,
+    "company": "oneplus"
+  }, 
+  {
+    "name":"redmi note 10",
+    "price": "25000",
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name":"nokia 3310",
+    "price": "5000",
+    "feature": true,
+    "company": "nokia"
+  },
+  {
+    "name":"realme gt master edition",
+    "price": "18000",
+    "feature": true,
+    "company": "realme"
+  }
+ 
+]
